@@ -1,3 +1,19 @@
-h1 {
-	color: red;
+.borders {
+	margin: 10px auto;
+	text-align:center;
+	box-shadow: 5px 5px 10px gray;
+	border: 1px solid black;
+	border-radius: 15px;
+	width: 40%;
+}
+
+li {
+	list-style-type: none;
+	margin-top: 2px;
+}
+
+ul {
+	border-bottom: 1px solid black;
+	width: 30%;
+	margin: auto;
 }
